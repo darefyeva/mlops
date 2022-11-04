@@ -1,2 +1,1 @@
-# mlops
-я страдаю
+HW1 MLOPS
